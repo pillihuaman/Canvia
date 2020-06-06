@@ -1,0 +1,99 @@
+﻿<div class="alert alert-block alert-warning">
+    <p>
+   Register User Information.
+    </p>
+
+</div>
+<form class="form-horizontal" role="form" id="frmUserControl">
+    <div class="form-group">
+        <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Name * </label>
+         <div class="col-sm-9">
+             <label id="Name-error" class="error" for="Name"></label>
+            <input type="text" id="Name" required=""  name="Name" for="Name" placeholder="Name" class="col-xs-10 col-sm-5 error">
+         
+        </div>
+    </div>
+        <div class="form-group">
+        <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Last Name * </label>
+        <div class="col-sm-9">
+   <label id="Name-error" class="error" for="LastName"></label>
+            <input type="text" id="LastName" required=""  name="LastName" for="LastName" placeholder="Last Name" class="col-xs-10 col-sm-5">
+        </div>         
+    </div>
+    <div class="form-group">
+        <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Password *</label>
+        <div class="col-sm-9">
+
+            <input type="password" id="Password" required="" name="password"  form="password" placeholder="Password" class="col-xs-10 col-sm-5">
+            <label id="password" class="error" for="password"></label>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Email * </label>
+        <div class="col-sm-9">
+
+            <input type="text" name="email"  required="" id="Email" placeholder="Email" class="col-xs-10 col-sm-5">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> System * </label>
+        <div class="col-sm-2">
+            <select class="form-control" id="cmdSystem">
+                <option value="">Select...</option>
+                <option value="1">Canvia</option>
+                <option value="2">Gamarra</option>
+                <option value="3">MINEDU</option>
+            </select>
+        </div>
+    </div>
+    <div class="clearfix form-actions">
+        <div class="col-md-offset-3 col-md-9">
+            <input type="submit" class="btn btn-info saveUser" value="Save" />
+            &nbsp; &nbsp; &nbsp;
+            <button class="btn" type="reset">
+                <i class="ace-icon fa fa-undo bigger-110"></i>
+                Clear
+            </button>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="alert alert-block alert-success successalert">
+            <p>
+                Registration was successful.
+            </p>
+        </div>
+        <div class="alert alert-block alert-danger dangeralert">
+            <p>
+                Registration failed check the log.
+            </p>
+        </div>
+        </div>
+    <div class="form-group">
+        <div id="TemplateTable"></div>
+        <table id="simple-table" class="table  table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th class="detail-col">Name</th>
+                    <th>Last Name</th>
+                    <th>User Code</th>
+             
+                    <th>
+                        <i class="ace-icon fa fa-clock-o bigger-110 hidden-480"></i>
+                        Email
+                    </th>
+                    <th>
+                        <i class="ace-icon fa fa-clock-o bigger-110 hidden-480"></i>
+                        System
+                    </th>
+            
+                    <th class="hidden-480">Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @Html.Raw(@ViewBag.listUsers)
+            </tbody>
+            </table>
+</div>
+</form>
+

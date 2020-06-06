@@ -1,0 +1,5 @@
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\entitiesLayer\bin\Debug\entitiesLayer.dll
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\entitiesLayer\bin\Debug\entitiesLayer.pdb
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\entitiesLayer\obj\Debug\entitiesLayer.csprojResolveAssemblyReference.cache
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\entitiesLayer\obj\Debug\entitiesLayer.dll
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\entitiesLayer\obj\Debug\entitiesLayer.pdb

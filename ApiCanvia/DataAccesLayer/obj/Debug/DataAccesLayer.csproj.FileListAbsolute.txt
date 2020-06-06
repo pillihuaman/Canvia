@@ -1,0 +1,7 @@
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\DataAccesLayer\obj\Debug\DataAccesLayer.csprojResolveAssemblyReference.cache
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+C:\Users\zarmir\Documents\Visual Studio 2015\Projects\ApiCanvia\DataAccesLayer\bin\Debug\entitiesLayer.dll
+C:\Users\zarmir\Documents\Visual Studio 2015\Projects\ApiCanvia\DataAccesLayer\bin\Debug\entitiesLayer.pdb

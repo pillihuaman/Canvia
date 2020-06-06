@@ -1,0 +1,9 @@
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\users\zarmir\documents\visual studio 2015\Projects\ApiCanvia\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\zarmir\Documents\Visual Studio 2015\Projects\ApiCanvia\BusinessLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\zarmir\Documents\Visual Studio 2015\Projects\ApiCanvia\BusinessLayer\bin\Debug\entitiesLayer.dll
+C:\Users\zarmir\Documents\Visual Studio 2015\Projects\ApiCanvia\BusinessLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\zarmir\Documents\Visual Studio 2015\Projects\ApiCanvia\BusinessLayer\bin\Debug\entitiesLayer.pdb
